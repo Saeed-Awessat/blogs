@@ -1,0 +1,9 @@
+.root{
+    display: flex;
+    flex-wrap: wrap;
+    /* justify-content: center; */
+}
+
+.blogContainer{
+    margin: 20px;
+}

@@ -1,0 +1,22 @@
+.root{
+    height: 200px;
+    width: 300px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    padding: 20px;
+}
+
+.main {
+    flex-grow: 1;
+}
+
+.header, .main, .footer {
+    flex-shrink: 0;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+}

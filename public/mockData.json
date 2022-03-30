@@ -1,0 +1,72 @@
+[
+    {
+      "id": 1,
+      "title": "blog title 1",
+      "description": "blog description",
+      "numOfLikes" : 0
+    },
+    {
+      "id": 2,
+      "title": "blog title 2",
+      "description": "blog description",
+      "numOfLikes" : 0
+    },
+    {
+      "id": 3,
+      "title": "blog title 3",
+      "description": "blog description",
+      "numOfLikes" : 0
+    },
+    {
+      "id": 4,
+      "title": "blog title 4",
+      "description": "blog description",
+      "numOfLikes" : 0
+    },{
+      "id": 5,
+      "title": "blog title 1",
+      "description": "blog description",
+      "numOfLikes" : 0
+    },
+    {
+      "id": 6,
+      "title": "blog title 2",
+      "description": "blog description",
+      "numOfLikes" : 0
+    },
+    {
+      "id": 7,
+      "title": "blog title 3",
+      "description": "blog description",
+      "numOfLikes" : 0
+    },
+    {
+      "id": 8,
+      "title": "blog title 4",
+      "description": "blog description",
+      "numOfLikes" : 0
+    },{
+      "id": 9,
+      "title": "blog title 1",
+      "description": "blog description",
+      "numOfLikes" : 0
+    },
+    {
+      "id": 10,
+      "title": "blog title 2",
+      "description": "blog description",
+      "numOfLikes" : 0
+    },
+    {
+      "id": 11,
+      "title": "blog title 3",
+      "description": "blog description",
+      "numOfLikes" : 0
+    },
+    {
+      "id": 12,
+      "title": "blog title 4",
+      "description": "blog description",
+      "numOfLikes" : 0
+    }
+]

@@ -1,0 +1,15 @@
+.app {
+  height: 700px;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  margin: 20px;
+}
+
+.main {
+  flex-grow: 1;
+}
+
+.header, .main, .footer {
+  flex-shrink: 0;
+}
